@@ -1,6 +1,6 @@
 <h1 align="center">My profile :)</h1>
-
-<h3 align="center">Hi im Celery :)<br>I also like minecraft anarchy!</h3>
+<h3 align="center">Hi I'm Celery, I am a self taught programmer<br>and I am also learning C and Assembly<br>I also like minecraft anarchy!</h3>
+<br>
 
 <p align="center"> </> Heres my techstack...</p>
 
