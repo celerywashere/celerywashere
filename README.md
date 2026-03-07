@@ -24,6 +24,8 @@
 
 ###
 
+<h4>Here are my socials (incase you wanna add me :D)</h4>
+
 <br clear="both">
 
 <div align="center">
