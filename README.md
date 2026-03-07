@@ -24,10 +24,9 @@
 
 ###
 
-<h4>Here are my socials (incase you wanna add me :D)</h4>
-
 <br clear="both">
 
+<h4>Here are my socials (incase you wanna add me :D)</h4>
 <div align="center">
   <a href="https://www.youtube.com/channel/UC1NbO9mV_lS1Tj6ySpmitNg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
