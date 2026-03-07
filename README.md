@@ -1,5 +1,5 @@
 <h1 align="center">My profile :)</h1>
-<br>
+
 <h3 align="center">Hi im Celery :)<br>I also like minecraft anarchy!</h3>
 
 ###
