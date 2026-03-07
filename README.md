@@ -2,12 +2,11 @@
 <h3 align="center">Hi I'm Celery, I am a self taught programmer<br>and I am also learning C and Assembly<br>I also like minecraft anarchy!</h3>
 <br>
 
-<h4 align="center">Heres some things I know...</h4>
-
 ###
 
 <br clear="both">
 
+<h4 align="center">Heres some things I know...</h4>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="15" />
@@ -26,7 +25,7 @@
 
 <br clear="both">
 
-<h4>Here are my socials (incase you wanna add me :D)</h4>
+<h4 align="center">Here are my socials (incase you wanna add me :D)</h4>
 <div align="center">
   <a href="https://www.youtube.com/channel/UC1NbO9mV_lS1Tj6ySpmitNg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
