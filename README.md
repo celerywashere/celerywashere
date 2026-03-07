@@ -2,7 +2,7 @@
 <h3 align="center">Hi I'm Celery, I am a self taught programmer<br>and I am also learning C and Assembly<br>I also like minecraft anarchy!</h3>
 <br>
 
-<p align="center"> </> Heres my techstack...</p>
+<h4 align="center">Heres some things I know...</h4>
 
 ###
 
