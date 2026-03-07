@@ -1,5 +1,4 @@
-<h3 align="left">Hi im Celery :)</h3>
-<h3>I also like minecraft anarchy!</h3>
+<h3 align="left">Hi im Celery :)<br>I also like minecraft anarchy!</h3>
 
 ###
 
