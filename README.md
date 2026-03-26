@@ -1,11 +1,11 @@
 <h1 align="center">My profile :)</h1>
-<h3 align="center">Hi I'm Celery, I am a self taught programmer<br>and I am also learning C and Assembly<br>I also like minecraft anarchy!</h3>
+<h3 align="center">Hi I'm Celery, I am a self taught programmer<br>I also like games</h3>
 <br>
 
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:celerywashere?theme=3d-num&padding=5&offset=0&scale=1.3&align=top&pixelated=1&darkmode=1"  />
+  <img src="https://count.getloli.com/@:celerywashere?theme=3d-num&padding=8&offset=0&scale=1.3&align=top&pixelated=1&darkmode=1"  />
 </div>
 
 ###
