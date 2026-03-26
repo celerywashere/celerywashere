@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<h4 align="center">Heres some things I know...</h4>
+<h3 align="center">Heres some things I know...</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="15" />
