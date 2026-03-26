@@ -1,5 +1,5 @@
 <h1 align="center">My profile :)</h1>
-<h3 align="center">Hi I'm Celery, I am a self taught programmer<br>I also like games</h3>
+<h3 align="center">Hi I'm Celery, I am a self taught programmer I also like games</h3>
 <h1 align="center">Profile Visits</h1>
 
 ###
