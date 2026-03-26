@@ -4,6 +4,14 @@
 
 ###
 
+<div align="center">
+  <img src="https://count.getloli.com/@:celerywashere?theme=3d-num&padding=5&offset=0&scale=1&align=top&pixelated=1&darkmode=1"  />
+</div>
+
+###
+
+###
+
 <br clear="both">
 
 <h4 align="center">Heres some things I know...</h4>
