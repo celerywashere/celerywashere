@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:celerywashere?theme=3d-num&padding=8&offset=0&scale=1.3&align=top&pixelated=1&darkmode=1"  />
+  <img src="https://count.getloli.com/@:celerywashere?theme=3d-num&padding=8&offset=0&scale=1&align=top&pixelated=1&darkmode=1"  />
 </div>
 
 ###
